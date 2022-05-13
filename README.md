@@ -1,1 +1,1 @@
-# Cellular_Automata
+# Gra w życie & Mrówka Langtona
