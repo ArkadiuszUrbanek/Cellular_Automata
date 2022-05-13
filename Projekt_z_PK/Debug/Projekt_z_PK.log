@@ -1,0 +1,13 @@
+﻿  funkcje.c
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(435,18): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(477,18): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(478,38): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(490,12): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(501,12): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(531,13): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(872,22): warning C4996: 'wscanf': This function or variable may be unsafe. Consider using wscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\funkcje.c(875,4): warning C4996: 'wscanf': This function or variable may be unsafe. Consider using wscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Projekt_z_PK\main.c(56,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generowanie kodu...
+  Projekt_z_PK.vcxproj -> C:\Users\Arek\Desktop\Projekt z PK2\Projekt_z_PK\Debug\Projekt_z_PK.exe
